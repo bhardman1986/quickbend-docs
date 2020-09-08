@@ -20,21 +20,14 @@ module.exports = {
         {
           to: 'docs/introduction',
           activeBasePath: 'docs',
-          label: 'Documents',
-          position: 'left',
+          label: 'Docs',
+          position: 'right',
         },
-        // {
-        //   to: 'docs/benders',
-        //   activeBasePath: 'benders',
-        //   label: 'Benders',
-        //   position: 'left'
-        // },
-        {to: 'blog/', label: 'Versions', position: 'right'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
+        {
+          to: 'blog/', 
+          label: 'Versions', 
+          position: 'right'
+        },
       ],
     },
     footer: {
