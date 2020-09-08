@@ -1,8 +1,8 @@
 module.exports = {
   title: 'QuickBend',
   tagline: 'This site is an extension of QuickBend. Dedicated to documenting and explaining conduit bending.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'bhardman1986/github.io',
+  baseUrl: '/quickbend-docs',
   favicon: 'img/ic_qbdocs.svg',
   organizationName: 'H-Tech, LLC.', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
