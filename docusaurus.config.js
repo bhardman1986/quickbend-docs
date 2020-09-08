@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/quickbend-docs',
   favicon: 'img/ic_qbdocs.svg',
   organizationName: 'H-Tech, LLC.', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'QuickBend Docs', // Usually your repo name.
   themeConfig: {
     colorMode: {
       disableSwitch: true
