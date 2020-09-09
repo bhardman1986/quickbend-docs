@@ -65,7 +65,7 @@ function Home() {
         <div className="container">
           <img className={styles.icon} src="img/droid_qb3icon.png"/>
           <h2 className="hero__title">{siteConfig.title}</h2>
-          <p className="hero__subtitle">QuickBend is an advanced conduit bending calculator that was created to be fast and accurate while being visually appealing, innovative, and intuitive. Offering you the most accurate measurements using the centerline radius algorithm based upon the bender that you're using.</p>
+          <p className="hero__subtitle">QuickBend x is an advanced conduit bending calculator that was created to be fast and accurate while being visually appealing, innovative, and intuitive. Offering you the most accurate measurements using the centerline radius algorithm based upon the bender that you're using.</p>
           <br/>
           <p className="hero__subtitle">This site is an extension of QuickBend. Dedicated to documenting and explaining conduit bending.</p>
           <div className={styles.buttons}>
