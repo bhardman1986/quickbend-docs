@@ -1,3 +1,10 @@
+const gettingStartedItems = [
+  {
+    label: 'Introduction',
+    to: 'docs/introduction'
+  },
+]
+
 module.exports = {
   someSidebar: {
     'Getting Started': [
