@@ -1,7 +1,7 @@
 module.exports = {
   title: 'QuickBend',
   tagline: 'This site is an extension of QuickBend. Dedicated to documenting and explaining conduit bending.',
-  url: 'https://bhardman1986.github.io',
+  url: 'https://bhardman1986.github.io/quickbend-docs/',
   baseUrl: '/',
   projectName: 'quickbend-docs',
   organizationName: 'bhardman1986',
