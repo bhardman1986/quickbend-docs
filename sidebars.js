@@ -16,13 +16,14 @@ module.exports = {
       'bender-specs',
       'bending-on-centers'
     ],
-    Bends: [
-      'doc1', 
-      'doc2', 
-      'doc3'
-    ],
-    Benders: [
-      'mdx'
-    ],
+    
+    // Bends: [
+    //   'doc1', 
+    //   'doc2', 
+    //   'doc3'
+    // ],
+    // Benders: [
+    //   'mdx'
+    // ],
   },
 };
