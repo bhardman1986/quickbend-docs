@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{109:function(n){n.exports=JSON.parse('{"allTagsPath":"/quickbend-docs/blog/tags","slug":"version","name":"version","count":1,"permalink":"/quickbend-docs/blog/tags/version"}')}}]);
