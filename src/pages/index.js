@@ -63,10 +63,12 @@ function Home() {
       description="The Quickest and Most Accurate">
       <header className={clsx('', styles.heroBanner)}>
         <div className="container">
+          <a href="docs/quickbend">
           <img className={styles.icon} src="img/droid_qb3icon.png"/>
           <h2 className="hero__title">{siteConfig.title}</h2>
+          </a>
           <p className="hero__subtitle"><b>QuickBend</b> is an advanced conduit bending calculator that was created to be very fast and accurate while remaining visually appealing, innovative, and intuitive. Offering you the most accurate measurements using the centerline radius algorithm based upon the bender that you're using.</p>
-          <p className="hero__subtitle">For more details about <b>QuickBend</b>, press the link below.</p>
+          {/* <p className="hero__subtitle">For more details about <b>QuickBend</b>, press the link below.</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -75,7 +77,7 @@ function Home() {
               to={useBaseUrl('docs/quickbend')}>
               Learn More
             </Link>
-          </div>
+          </div> */}
           <br/>
           <p className="hero__subtitle">This site is an extension of QuickBend. Dedicated to documenting and explaining conduit bending.</p>
           <div className={styles.buttons}>

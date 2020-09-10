@@ -6,7 +6,7 @@ title: Introduction
 
 ## Welcome to QuickBend Docs
 
-**QuickBend Docs** is a website dedicated to documenting the app **QuickBend** and conduit bending. Through out this website you'll find detailed information on how to bend conduit, how to use different types of benders, how to use the app effectively, and general information about different conduit sizes and types.
+**QuickBend Docs** is a website dedicated to documenting the app <a href="quickbend">**QuickBend**</a> and conduit bending. Through out this website you'll find detailed information on how to bend conduit, how to use different types of benders, how to use the app effectively, and general information about different conduit sizes and types.
 
 <!-- 
 ## QuickBend
