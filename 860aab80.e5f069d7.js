@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{115:function(o){o.exports=JSON.parse('{"allTagsPath":"/quickbend-docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/quickbend-docs/blog/tags/facebook"}')}}]);
