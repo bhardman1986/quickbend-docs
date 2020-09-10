@@ -65,7 +65,17 @@ function Home() {
         <div className="container">
           <img className={styles.icon} src="img/droid_qb3icon.png"/>
           <h2 className="hero__title">{siteConfig.title}</h2>
-          <p className="hero__subtitle">QuickBend is an advanced conduit bending calculator that was created to be fast and accurate while being visually appealing, innovative, and intuitive. Offering you the most accurate measurements using the centerline radius algorithm based upon the bender that you're using.</p>
+          <p className="hero__subtitle"><b>QuickBend</b> is an advanced conduit bending calculator that was created to be fast and accurate while being visually appealing, innovative, and intuitive. Offering you the most accurate measurements using the centerline radius algorithm based upon the bender that you're using.</p>
+          <p className="hero__subtitle">For more details about <b>QuickBend</b>, press the link below.</p>
+          <div className={styles.buttons}>
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+              )}
+              to={useBaseUrl('docs/quickbend')}>
+              Learn More
+            </Link>
+          </div>
           <br/>
           <p className="hero__subtitle">This site is an extension of QuickBend. Dedicated to documenting and explaining conduit bending.</p>
           <div className={styles.buttons}>
@@ -74,7 +84,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
               )}
               to={useBaseUrl('docs/introduction')}>
-              Learn More
+              Get Started
             </Link>
           </div>
         </div>

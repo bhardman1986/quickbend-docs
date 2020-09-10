@@ -8,7 +8,8 @@ const gettingStartedItems = [
 module.exports = {
   someSidebar: {
     'Getting Started': [
-      'introduction', 
+      'quickbend',
+      'introduction',
       'trigonometry',
       'centerline-radius',
       'benders',

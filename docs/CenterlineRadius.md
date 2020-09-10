@@ -4,7 +4,7 @@ title: Centerline Radius
 # sidebar_label: Style Guide
 ---
 
-Just how triangles play a key role in bending conduit, so do circles. Every bend has a radius, that radius may make a huge difference between throwing a piece of conduit on a raceway or a bone pile.
+Just how triangles play a key role in bending conduit, so do circles. Every bend has a radius, that radius may make a huge difference between throwing a piece of conduit on a raceway or in a bone pile.
 
 We use the centerline radius because the centerline radius will not change when bent. The inside of the radius will compress. While the outside of the radius will stretch.
 
