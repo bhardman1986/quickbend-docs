@@ -13,7 +13,7 @@ module.exports = {
       'trigonometry',
       'centerline-radius',
       'benders',
-      'bender-charting',
+      'bender-specs',
       'bending-on-centers'
     ],
     Bends: [

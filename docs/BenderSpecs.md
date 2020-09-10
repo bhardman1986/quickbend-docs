@@ -1,6 +1,6 @@
 ---
-id: bender-charting
-title: Bender Charting
+id: bender-specs
+title: Bender Specs
 # sidebar_label: Style Guide
 ---
 
