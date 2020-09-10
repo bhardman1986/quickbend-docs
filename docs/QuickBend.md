@@ -8,15 +8,15 @@ title: QuickBend
 
 ## About
 
-**QuickBend** is an advanced conduit bending calculator that was created to be fast and accurate while remaining visually appealing, innovative, and intuitive. Unlike other apps, **QuickBend** uses the centerline radius algorithm, which is more precise than the multiplier method. Just by simply selecting the bender that you're using you're able to take into account for the radius of the bend, for precision. However, some of us may prefer using the multiplier method and that's why by selecting the 'Cosecant Method' instead of a bender you can ignore the radius of the bender.
+**QuickBend** is an advanced conduit bending calculator that was created to be very fast and accurate while remaining visually appealing, innovative, and intuitive. Unlike other apps, **QuickBend** uses the <a href="centerline-radius">centerline radius algorithm</a>, which is more precise than the multiplier method. Just by simply selecting a bender you're able to take into account for the radius of the bend. However, if you prefer to use the multiplier method than select the 'Cosecant Method' instead of a bender and you can ignore the radius.
 
-The <a href="centerline-radius">centerline radius algorithm</a> is especially useful when bending conduits larger than 3/4", or with bends that exceed 30˚.
+The centerline radius algorithm is especially useful when bending conduits larger than 3/4", or with bends that exceed 30˚.
 
 Easily select between different types of benders and choose the size of the shoe and conduit type that you're using. Without sorting through a gigantic list. The last bender that you selected will be the bender that appears when you open the app up again. View and edit your bender's information (Centerline Radius, Deduct, Gain, Setback, Travel, and Radius Adjustment) within the 'Bender Specs' section.
 
 Bends also include data management, which will save the last values that you've entered into the app. All data is stored within your device.
 
-## Bends
+### Bends
 
 - Offset
 - Rolling Offset
@@ -37,7 +37,7 @@ Bends also include data management, which will save the last values that you've 
 - Compound 90 - Square Obstruction
 - Segmented 90
 
-## Benders
+### Benders
 
 - Cosecant (Okay. it's not a bender, however; if you prefer the standard multiplier method with no radius. It's available.)
 - Current Tools: 750/751
@@ -62,7 +62,7 @@ Bends also include data management, which will save the last values that you've 
 - Klein: Hand Benders
 - Milwaukee: Hand Benders
 
-## Multiple Bends
+### Multiple Bends
 
 - Layout multiple bends on a single stick of conduit.
 - Offset to Obstruction
