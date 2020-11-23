@@ -59,11 +59,12 @@ module.exports = {
           title: 'Privacy Policy',
           items: [
             {
-              label: 'QuickBend'
+              label: 'QuickBend',
+              to: 'docs/QuickBend#privacy-policy'
             },
             {
               label: 'MTRList',
-              to: 'docs/privacy-MTRList'
+              to: 'docs/MTRList#privacy-policy'
             }
           ]
         },

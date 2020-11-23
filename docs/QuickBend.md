@@ -84,3 +84,5 @@ QuickBend also includes a protractor level which is easily accessible and can be
 QuickBend allows you to pick between either form of measurements, imperial (inches) or metric (cm).
 
 QuickBend's QuickCheck indicates if bends are impossible by a subtle change of turning the measurements and text red.
+
+## Privacy Policy
