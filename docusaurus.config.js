@@ -46,25 +46,24 @@ module.exports = {
             }
           ]
         },
-        // {
-        //   title: 'More',
-        //   items: [
-        //     {
-        //       label: 'Blog',
-        //       to: 'blog',
-        //     },
-        //     {
-        //       label: 'GitHub',
-        //       href: 'https://github.com/facebook/docusaurus',
-        //     },
-        //   ],
-        // },
         {
           title: 'Contact',
           items: [
             {
               label: 'Bret',
               href: 'mailto://rigidpro@outlook.com'
+            }
+          ]
+        },
+        {
+          title: 'Privacy Policy',
+          items: [
+            {
+              label: 'QuickBend'
+            },
+            {
+              label: 'MTRList',
+              to: 'docs/privacy-MTRList'
             }
           ]
         },
