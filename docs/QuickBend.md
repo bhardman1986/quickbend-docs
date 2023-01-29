@@ -86,3 +86,5 @@ QuickBend allows you to pick between either form of measurements, imperial (inch
 QuickBend's QuickCheck indicates if bends are impossible by a subtle change of turning the measurements and text red.
 
 ## Privacy Policy
+
+**QuickBend** does not use, or collect any personal data from it's users. All data is stored locally on the users device.
